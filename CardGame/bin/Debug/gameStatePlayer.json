@@ -1,0 +1,553 @@
+{
+  "Deck": [
+    {
+      "Damage": 8,
+      "Health": 3,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Beast",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 3,
+      "Health": 4,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Elemental",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 2,
+      "Health": 6,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Elemental",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 2,
+      "Health": 2,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Murlok",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 4,
+      "Health": 1,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Beast",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Heal": 3,
+      "TypeOfCard": 2
+    },
+    {
+      "Damage": 2,
+      "Health": 4,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Beast",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 4,
+      "Health": 4,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Elemental",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 3,
+      "Health": 8,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Elemental",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 2,
+      "Health": 2,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Elemental",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 8,
+      "Health": 4,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Beast",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 6,
+      "Health": 4,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Beast",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 8,
+      "Health": 1,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Beast",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 4,
+      "Health": 3,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Beast",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 4,
+      "Health": 6,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Elemental",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 1,
+      "Health": 4,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Undead",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Heal": 3,
+      "TypeOfCard": 2
+    },
+    {
+      "Damage": 3,
+      "Health": 1,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Undead",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 2,
+      "Health": 1,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Undead",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 4,
+      "Health": 4,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Beast",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 3,
+      "TypeOfCard": 1
+    },
+    {
+      "Damage": 6,
+      "Health": 2,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Beast",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 1,
+      "Health": 2,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Elemental",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 4,
+      "Health": 1,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Undead",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 2,
+      "Health": 3,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Beast",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 3,
+      "TypeOfCard": 1
+    },
+    {
+      "Damage": 2,
+      "Health": 1,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Beast",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 1,
+      "Health": 1,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Undead",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 3,
+      "Health": 2,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Undead",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 3,
+      "Health": 4,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Undead",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 4,
+      "Health": 3,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Murlok",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 2,
+      "Health": 4,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Murlok",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 4,
+      "Health": 4,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Undead",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 3,
+      "Health": 6,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Elemental",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 2,
+      "Health": 3,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Undead",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 4,
+      "Health": 2,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Elemental",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 1,
+      "Health": 4,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Murlok",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 3,
+      "Health": 2,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Murlok",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Heal": 3,
+      "TypeOfCard": 2
+    },
+    {
+      "Damage": 6,
+      "Health": 3,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Beast",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 1,
+      "Health": 3,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Undead",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 4,
+      "Health": 8,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Elemental",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 1,
+      "Health": 6,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Elemental",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 3,
+      "Health": 4,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Murlok",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 2,
+      "Health": 2,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Undead",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 1,
+      "Health": 2,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Murlok",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 3,
+      "Health": 1,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Murlok",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 3,
+      "Health": 3,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Murlok",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 3,
+      "Health": 3,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Undead",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 8,
+      "Health": 2,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Beast",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 4,
+      "Health": 2,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Murlok",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 6,
+      "Health": 1,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Beast",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 1,
+      "Health": 2,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Undead",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 1,
+      "Health": 4,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Elemental",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 4,
+      "Health": 4,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Murlok",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 4,
+      "Health": 2,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Undead",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 2,
+      "Health": 4,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Undead",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 1,
+      "Health": 1,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Murlok",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 4,
+      "Health": 1,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Murlok",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 2,
+      "Health": 4,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Elemental",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 2,
+      "Health": 1,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Murlok",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 2,
+      "Health": 3,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Murlok",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 4,
+      "Health": 2,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Beast",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 1,
+      "Health": 8,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Elemental",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 4,
+      "Health": 3,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Undead",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 2,
+      "Health": 8,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Elemental",
+      "IsDead": false,
+      "TypeOfCard": 0
+    }
+  ],
+  "Hand": [
+    {
+      "Damage": 3,
+      "TypeOfCard": 1
+    },
+    {
+      "Damage": 2,
+      "Health": 2,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Beast",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 1,
+      "Health": 3,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Murlok",
+      "IsDead": false,
+      "TypeOfCard": 0
+    },
+    {
+      "Damage": 3,
+      "Health": 2,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "Elemental",
+      "IsDead": false,
+      "TypeOfCard": 0
+    }
+  ],
+  "Board": [
+    {
+      "Damage": 1,
+      "Health": 20,
+      "ReadyToAttack": 0,
+      "TypeOfCreatures": "MAIN_CARD",
+      "IsDead": false,
+      "TypeOfCard": 0
+    }
+  ],
+  "PlayerRole": "Player"
+}
