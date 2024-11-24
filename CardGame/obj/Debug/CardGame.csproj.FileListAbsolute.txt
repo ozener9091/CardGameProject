@@ -28,3 +28,10 @@ C:\Users\user\Desktop\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInp
 C:\Users\user\Desktop\CardGame\CardGame\obj\Debug\CardGame.csproj.Up2Date
 C:\Users\user\Desktop\CardGame\CardGame\obj\Debug\CardGame.exe
 C:\Users\user\Desktop\CardGame\CardGame\obj\Debug\CardGame.pdb
+C:\Users\user\Desktop\CardGameProject\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\user\Desktop\CardGameProject\CardGame\bin\Debug\CardGame.exe
+C:\Users\user\Desktop\CardGameProject\CardGame\bin\Debug\CardGame.pdb
+C:\Users\user\Desktop\CardGameProject\CardGame\obj\Debug\CardGame.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CardGameProject\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CardGameProject\CardGame\obj\Debug\CardGame.exe
+C:\Users\user\Desktop\CardGameProject\CardGame\obj\Debug\CardGame.pdb
